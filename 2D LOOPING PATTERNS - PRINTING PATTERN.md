@@ -1,5 +1,5 @@
 # Exp.No:2d
-## LOOPING PATTERNS - PRINTING SQUARE PATTERN OF NUMBERS
+## LOOPING PATTERNS - PRINTING SQUARE PATTERN OF NUMBERS 
 ---
 ### AIM  
 To write a Python program to print a square pattern of numbers using loops.
